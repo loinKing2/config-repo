@@ -3,3 +3,6 @@ info:
 
 name: Saul
 words: 'God bless you and me v2, who are you???'
+
+#告诉config下面的属性进行过加密，在拉取的时候，会尝试进行解密
+food: '{cipher}1dbecd9095af6d5252571874726face73d51553f36b255c693b7389845c32b58'
